@@ -38,7 +38,7 @@ weight = 1
 [params]
 about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
 address = "<p><strong>Universal Ltd.</strong>\n        <br>13/25 New Avenue\n        <br>Newtown upon River\n        <br>45Y 73J\n        <br>England\n        <br>\n        <strong>Great Britain</strong>\n      </p>\n      "
-author = "DevCows"
+author = "Gvag"
 copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 date_format = "January 2, 2006"
 defaultdescription = "Site template made by devcows using hugo"
@@ -51,7 +51,7 @@ longitude = "-77.028333"
 style = "default"
 viewmorepostlink = "/blog/"
 [params.carousel]
-enable = false
+enable = true
 [params.clients]
 enable = true
 subtitle = ""
@@ -63,7 +63,7 @@ enable = false
 subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
 title = "From our blog"
 [params.see_more]
-enable = true
+enable = false
 icon = "fa fa-file-code-o"
 link_text = "Check other homepages"
 link_url = "#"
