@@ -2,7 +2,7 @@
 id = "contact"
 title = "Contact"
 type = "page"
-[menu.topbar]
+[menu.main]
 name = "MyMenuTest"
 weight = 1
 
