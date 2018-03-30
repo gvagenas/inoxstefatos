@@ -1,6 +1,6 @@
 #!/bin/bash
 
-git pully
+git pull
 hugo
 git add .
 git commit -a -m 'Fixes'
