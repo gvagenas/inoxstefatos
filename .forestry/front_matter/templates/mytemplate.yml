@@ -1,0 +1,13 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: type
+  label: Type
+- type: datetime
+  default: Invalid date
+  label: Date
+  name: date
