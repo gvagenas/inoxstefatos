@@ -1,5 +1,5 @@
 ---
-title: Κατασκευες INOX
+title: "ΣΤΕΦΑΤΟΣ ΕΠΕ"
 type: page
 date: 2018-03-30 13:02:18 +0000
 weight: 1
