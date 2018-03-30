@@ -6,9 +6,17 @@ baseURL = "https://gvagenas.github.io/inoxstefatos"
 enableRobotsTXT = true
 googleAnalytics = ""
 languageCode = "en-us"
+publishDir = "docs"
 theme = "gohugo-theme-ananke"
 title = "Inox Stefatos"
-publishDir = "docs"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Contact"
+url = "/contact/"
+weight = 2
 [params]
 background_color_class = "bg-black"
 description = "The last theme you'll ever need. Maybe."
