@@ -9,6 +9,10 @@ menu:
     weight: 2
 
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+Το 1922 ο Σπύρος Γ. Στεφάτος από την Κεφαλλονιά, ήρθε στην Αθήνα και εργάστηκε σαν μαθητευόμενος τεχνίτης στο μηχανουργείο του Ιωάννη Βρεττού στην οδό Ιπποκράτους. Εκεί έμαθε να κατασκευάζει μαγειρικές συσκευές (στόφες) που λειτουργούσαν με στερεά καύσιμα.
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+Το 1940 ίδρυσε τη δική του βιοτεχνία στο Περιστέρι. Όντας από τους πρώτους στην Ελλάδα που ασχολήθηκαν με την κατασκευή ανοξείδωτων συσκευών, κατάφερε να εξοπλίσει χώρους μαζικής εστίασης (ξενοδοχεία, εστιατόρια κλπ), δημόσιες υπηρεσίες (π.χ. στρατός) όπως και νοσηλευτικά ιδρύματα (δημόσια και μη).
+
+Στη συνέχεια το 1976 τον διαδέχθηκαν οι γιοί του Γεώργιος και Κωνσταντίνος Στεφάτος, όπου με τη σειρά τους παραχώρησαν τη θέση τους το 2016 στον εγγονό και συνονόματο Σπύρο Γ. Στεφάτο.
+
+Έχοντας εφόδιο την τεχνογνωσία του παππού και του πατέρα, όχι μόνο συνεχίζει ανοδικά την πορεία της βιοτεχνίας, αλλά είναι σε θέση να φέρει εις πέρας ειδικές κατασκευές, κερδίζοντας έτσι την αξιοπιστία συνεργατών και πελατών του.
