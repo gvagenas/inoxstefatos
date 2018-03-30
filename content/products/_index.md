@@ -2,6 +2,10 @@
 title: "Κατασκευες"
 description: "Μερικες απο τις κατασκευες μας"
 type: page
+menu:
+  main:
+    name: "ΚατασκευεςMenu"
+    weight: 1
 
 ---
 Φιλτρα

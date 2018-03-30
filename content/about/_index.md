@@ -1,6 +1,13 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+title: About
+description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame,
+  the author of this book found, in an obscure nook of one of the towers, the following
+  word, engraved by hand upon the wall: —ANANKE.'
+menu:
+  main:
+    name: "Η εταιρια Menu"
+    weight: 2
+
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
