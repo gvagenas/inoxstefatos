@@ -1,6 +1,4 @@
 ---
-pages:
-- products/fouskes.md
 hide_body: false
 fields:
 - type: text
