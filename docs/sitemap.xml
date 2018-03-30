@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gvagenas.github.io/inoxstefatos/</loc>
+    <loc>https://staging.inoxstefatos.gr/</loc>
     <lastmod>2018-03-30T13:02:18+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://gvagenas.github.io/inoxstefatos/products/</loc>
+    <loc>https://staging.inoxstefatos.gr/products/</loc>
     <lastmod>2018-03-30T13:02:18+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://gvagenas.github.io/inoxstefatos/about/</loc>
+    <loc>https://staging.inoxstefatos.gr/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://gvagenas.github.io/inoxstefatos/contact/</loc>
+    <loc>https://staging.inoxstefatos.gr/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://gvagenas.github.io/inoxstefatos/categories/</loc>
+    <loc>https://staging.inoxstefatos.gr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://gvagenas.github.io/inoxstefatos/tags/</loc>
+    <loc>https://staging.inoxstefatos.gr/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
