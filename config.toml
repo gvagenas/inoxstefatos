@@ -8,6 +8,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 title = "Inox Stefatos"
+publishDir = "docs"
 [params]
 background_color_class = "bg-black"
 description = "The last theme you'll ever need. Maybe."
