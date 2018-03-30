@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://staging.inoxstefatos.gr/</loc>
+    <loc>http://staging.inoxstefatos.gr/</loc>
     <lastmod>2018-03-30T13:02:18+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://staging.inoxstefatos.gr/products/</loc>
+    <loc>http://staging.inoxstefatos.gr/products/</loc>
     <lastmod>2018-03-30T13:02:18+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://staging.inoxstefatos.gr/about/</loc>
+    <loc>http://staging.inoxstefatos.gr/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://staging.inoxstefatos.gr/contact/</loc>
+    <loc>http://staging.inoxstefatos.gr/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://staging.inoxstefatos.gr/categories/</loc>
+    <loc>http://staging.inoxstefatos.gr/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://staging.inoxstefatos.gr/tags/</loc>
+    <loc>http://staging.inoxstefatos.gr/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
