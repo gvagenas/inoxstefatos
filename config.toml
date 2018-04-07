@@ -9,10 +9,10 @@ languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 title = "Inox Stefatos"
 [params]
-background_color_class = "bg-black"
+background_color_class = "bg-white"
 description = "The last theme you'll ever need. Maybe."
 facebook = "https://facebook.com"
-featured_image = "/images/jakub-skafiriak-567-unsplash.jpg"
+featured_image = "/images/steel.jpg"
 recent_posts_number = 0
 [sitemap]
 changefreq = "monthly"
