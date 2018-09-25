@@ -16,6 +16,12 @@ collections: # A list of collections the CMS should be able to edit
     label: "Home Page"
     name: "home"
     fields:
+    - type: page
+    -  weight: 1
+    -  menu:
+    -    main:
+    -      name: "Αρχικη"
+    -      weight: 1
     - {label: Title, name: title, widget: string}
     - {label: Image, name: image, widget: image}
     - {label: Body, name: body, widget: markdown}

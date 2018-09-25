@@ -1,6 +1,12 @@
 ---
-title: ΣΤΕΦΑΤΟΣ ΕΠΕ
-image: /images/stefatos_logo.jpg
+title: "ΣΤΕΦΑΤΟΣ ΕΠΕ"
+type: page
+date: 2018-03-30 13:02:18 +0000
+weight: 1
+menu:
+  main:
+    name: "Αρχικη"
+    weight: 1
 ---
 **Ολοκληρωμενες λυσεις INOX με εμπειρια και επαγγελματισμο**
 
